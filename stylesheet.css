@@ -1,6 +1,4 @@
-@font-face {
-  font-family: "Roboto";
-}
+@import{https://fonts.googleapis.com/css?family=Roboto&display=swap}
 
 html{
   font-family: "Roboto", sans-serif;
