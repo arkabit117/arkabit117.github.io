@@ -1,0 +1,22 @@
+{
+  "name": "arkabit117.github.io",
+  "version": "1.0.0",
+  "description": "it something",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkabit117/arkabit117.github.io.git.git"
+  },
+  "keywords": [
+    "index"
+  ],
+  "author": "arkabit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkabit117/arkabit117.github.io.git/issues"
+  },
+  "homepage": "https://github.com/arkabit117/arkabit117.github.io.git#readme"
+}
