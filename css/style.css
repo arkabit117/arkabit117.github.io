@@ -1,3 +1,16 @@
+.bg-lp{
+  /* background-image: url("/img/springABFINAL.png"); */
+  background-image: linear-gradient(to bottom right, #d0a1a8, #00009d);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .bg-intro{
   background-image: url("/img/springABFINAL.png");
 
