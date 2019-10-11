@@ -13,15 +13,8 @@
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;;
-  /*Size */
-  height: 100%;
-  width: auto;
+  background-size: cover;
 
-  /* Center and scale the image nicely
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;*/
 }
 
 .img-small{
