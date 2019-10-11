@@ -9,15 +9,19 @@
 }
 
 .bg-intro{
-  background-image: url("/img/springABFINAL.png");
+  background: url("/img/springABFINAL.png")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
   /*Size */
   height: 100%;
   width: auto;
 
-  /* Center and scale the image nicely */
+  /* Center and scale the image nicely
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 .img-small{
