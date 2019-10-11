@@ -1,5 +1,4 @@
 .bg-lp{
-  /* background-image: url("/img/springABFINAL.png"); */
   background-image: linear-gradient(to bottom right, #d0a1a8, #00009d);
 
   /* Full height */
@@ -11,9 +10,9 @@
 
 .bg-intro{
   background-image: url("/img/springABFINAL.png");
-
-  /* Full height */
+  /*Size */
   height: 100%;
+  width: auto;
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -25,5 +24,5 @@
   width: 100%;
   height: auto;
   object-fit: scale-down;
-  padding: 5px; 
+  padding: 5px;
 }
