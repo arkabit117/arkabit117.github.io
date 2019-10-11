@@ -1,11 +1,9 @@
 .bg-lp{
-  background-image: linear-gradient(to bottom right, #d0a1a8, #00009d);
-
-  /* Full height */
-  height: 100%;
-  width: 100%;
-  object-fit: contain;
-
+  background-image: linear-gradient(to bottom right, #d0a1a8, #00009d)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .bg-intro{
