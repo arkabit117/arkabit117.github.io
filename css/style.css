@@ -1,0 +1,38 @@
+.bg-lp{
+  background-image: linear-gradient(to bottom right, #d0a1a8, #00009d)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.bg-intro{
+  background: url("/img/springABFINAL.png")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.bg-blog{
+  background: url("/img/.png")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.bg-process{
+  background-image: linear-gradient(to bottom right, #d0a1a8, #00009d)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.img-small{
+  width: 100%;
+  height: auto;
+  object-fit: scale-down;
+  padding: 15px;
+}
